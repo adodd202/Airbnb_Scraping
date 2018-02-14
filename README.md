@@ -1,6 +1,9 @@
 # Airbnb_Scraping
 Scraping Airbnb with Scrapy Splash and performing EDA in Python and R.
 
+Presentation can be found here:
+https://docs.google.com/presentation/d/1dShCpHl9UuVHzVdXqi681p0b0J8rCQKT6qhkjXF5H_8/edit?usp=sharing
+
 ------------------
 
 File structure:
