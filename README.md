@@ -1,6 +1,17 @@
 # Airbnb_Scraping
 Scraping Airbnb with Scrapy Splash and performing EDA in Python and R.
 
+------------------
+
+File structure:
+1. airbnb folder: scraper using scrapy splash
+2. Python_EDA.py:_ explatory data analysis in Python (and some machine learning), wrap it up for R use
+3. R_EDA.R:_ explatory data analysis in R
+
+------------------
+
+Project Overview:
+
 This project scrapes Manhattan Airbnb locations via Scrapy Splash. It scrapes at a rate of ~500 listings per hour.
 The main scraping speed bottleneck is due to Airbnb banning scraping exceeding scraping faster than one page per 6 seconds.
 
