@@ -5,7 +5,7 @@ Scraping Airbnb with Scrapy Splash and performing EDA in Python and R.
 
 File structure:
 1. airbnb folder: scraper using scrapy splash
-2. Python_EDA.py:_ explatory data analysis in Python (and some machine learning), wrap it up for R use
+2. Python_EDA.ipynb:_ explatory data analysis in Python (and some machine learning), wrap it up for R use
 3. R_EDA.R:_ explatory data analysis in R
 
 ------------------
